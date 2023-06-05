@@ -142,7 +142,7 @@ a:active {
     background-color: black;
     color: aliceblue ; 
     border-radius: 0.5rem;
-    background-image: url(https://github.com/soufianemk/soufiane.github/blob/main/images/spots.jpg?raw=true);
+    background-image: image (https://github.com/soufianemk/soufiane.github/blob/main/images/spots.jpg?raw=true);
     background-size: 400px 210px;
     background-repeat: no-repeat;
     
