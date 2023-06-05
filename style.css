@@ -132,7 +132,7 @@ a:active {
     background-color: black;
     color: aliceblue;
     border-radius: 0.5rem;
-    background-image: url(3.jpg);
+    background-image: url(https://github.com/soufianemk/soufiane.github/blob/main/images/3.jpg?raw=true);
     background-size: 400px 150px;
     background-repeat: no-repeat;
 }
@@ -142,7 +142,7 @@ a:active {
     background-color: black;
     color: aliceblue ; 
     border-radius: 0.5rem;
-    background-image: url(spots.jpg);
+    background-image: url(https://github.com/soufianemk/soufiane.github/blob/main/images/spots.jpg?raw=true);
     background-size: 400px 210px;
     background-repeat: no-repeat;
     
@@ -159,7 +159,7 @@ a:active {
     color: azure;
     border-radius: 0.5rem;
     margin-top: 17px;
-    background-image: url(Surf-cresc.jpg);
+    background-image: url(https://github.com/soufianemk/soufiane.github/blob/main/images/Surf-cresc.jpg?raw=true);
     background-size: 650px 350px;
     background-repeat: no-repeat;
 }
